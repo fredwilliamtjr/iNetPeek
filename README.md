@@ -16,6 +16,12 @@
 
 ---
 
+<p align="center">
+  <img src="docs/screenshot.png" width="520" alt="iNetPeek — popover na barra de menu e janela de Preferências">
+</p>
+
+---
+
 ## 🧭 O problema
 
 O macOS só troca de interface de rede quando **perde link físico**. Se o cabo continua plugado mas a internet da operadora caiu, o Mac fica preso na interface ruim, recusando-se a usar o Wi-Fi que está ali, saudável, do lado. Você abre o navegador, nada carrega, e fica sem entender por quê — até desplugar o cabo manualmente.
